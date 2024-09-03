@@ -47,7 +47,7 @@ elemento2.innerHTML = "<strong>Texto en negrita</strong>";
 
 const newElement = document.getElementById("contenedor");
 const parrafoNuevo = document.createElement("P");
-parrafoNuevo.textContent = "Martín Lorenzo, Desarrollador Web Freelance";
+parrafoNuevo.textContent = "WebDev, Desarrollador Web Freelance";
 parrafoNuevo.style.color = "darkgreen";
 parrafoNuevo.style.fontSize = "50px";
 parrafoNuevo.style.fontFamily = "Arial";
